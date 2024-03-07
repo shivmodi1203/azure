@@ -1,0 +1,82 @@
+Section 1
+->Introduction
+->Course Overview
+->Gettig started with cloud and Azure
+->createing Microsoft Azure account
+
+Section 2
+
+->Why do we need regions and AZs
+->Understanding regions and availability zones in Azure
+
+Section 3
+
+-> Getting started with Azure virtual machines
+->Creating first Virtual Machine in Azure
+-> Connecting to Azure virtual machine and runnig commands
+-> Understanding Azure VMs key concepts
+	-Iamage
+	-Size
+	-Disks
+-> iNSTALLING NGINX ON aZURE vIRTUAL mACHINE
+-> Cloud Init
+->Availability Sets and Zones
+->New  Approach to Creating  scale set
+->Using virtal machine scale set to create vms in Muletiple AZs
+->Exploring Scaling and Load Balancing with VM Scale Set
+->Exploring Azure VMs
+	-/Static IP
+	-Monitoring 
+	-Reducing Costs
+->Designing good solutions with Azure vms
+-> Exploring Azure Virtual Machine - Scenarios
+
+Section 4
+
+-> Getting Started with IAAS and PAAS
+-> Getting Started with Azure App Service
+-> Creating your first Azure Web App using App Service
+->Playing with Azure App Service
+-> Getting Started with Azure Container Instances
+-> Container Orchestration in Azure - AKS and Service Fabric
+->  Getting Started with Serverless
+->  Go Serverless with Azure Functions
+-> Getting Started with SaaS - Software as a Service
+->Understanding Azure Shared Responsibility Model
+->Exploring Azure Cloud Service Categories - Scenarios
+->Review - Azure Compute Services
+->Deleting Resource Groups
+
+Section 5
+
+->Getting Started with Azure Storage
+->Exploring Region Pairs - Simplify Cross Region Replication
+->Managed and UnManaged Block Storage in Azure
+->Getting Started with Azure File Storage - Azure Files
+->Exploring Azure File Storage - Azure Files
+-> Exploring Hybrid file shares with Azure File Sync
+->Understanding Azure Blob Storage and Tiers
+->Exploring Azure with Azure Storage Explorer
+
+Section 6
+
+-> Getting Started with Databases
+->Understanding Database Fundamentals - Snapshot, Standby etc
+->Understanding Database Fundamentals - Availability and  Durability
+->Understanding Database Fundamentals - RTO and RPO
+->Understanding How To Choose a Database
+->Exploring OLTP Relational Databases in Azure
+
+Section 7
+
+
+
+
+		
+
+
+
+
+
+
+
